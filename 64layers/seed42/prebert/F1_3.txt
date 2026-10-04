@@ -1,0 +1,1 @@
+train: tensor(0.2790, device='cuda:0'), validation: tensor(0.2402, device='cuda:0')
